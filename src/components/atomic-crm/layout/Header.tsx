@@ -32,7 +32,6 @@ const Header = () => {
       <nav className="grow">
         <header className="bg-secondary">
           <div className="px-4">
-            <div>test</div>
             <div className="flex justify-between items-center flex-1">
               <Link
                 to="/"
