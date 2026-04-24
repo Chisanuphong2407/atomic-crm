@@ -131,6 +131,14 @@ export const LoginPage = (props: { redirectTo?: string }) => {
                 </div>
               </Form>
             )}
+            <div className="flex flex-col gap-4">
+              <Link
+                to={"/sign-up"}
+                className="block text-sm text-center w-full"
+              >
+                  {translate("crm.auth.signup.signup")}
+              </Link>
+            </div>
             {googleWorkplaceDomain ? (
               <SSOAuthButton className="w-full" domain={googleWorkplaceDomain}>
                 {translate("crm.auth.sign_in_google_workspace", {

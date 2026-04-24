@@ -386,6 +386,7 @@ export const englishCrmMessages = {
           "Create the first user account to complete the setup.",
         creating: "Creating...",
         initial_user_created: "Initial user successfully created",
+        signup: 'Sign up'
       },
       welcome_title: "Welcome to Atomic CRM",
     },

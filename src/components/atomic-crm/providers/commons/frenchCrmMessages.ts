@@ -392,6 +392,7 @@ export const frenchCrmMessages = {
           "Créez le premier compte utilisateur pour terminer la configuration.",
         creating: "Création...",
         initial_user_created: "Utilisateur initial créé avec succès",
+        signup: 'Sign up'
       },
       welcome_title: "Bienvenue sur Atomic CRM",
     },
