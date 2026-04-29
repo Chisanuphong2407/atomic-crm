@@ -23,6 +23,7 @@ __screenshots__
 .env.test.local
 .env.production.local
 .eslintcache
+.env.development
 
 npm-debug.log*
 yarn-debug.log*
